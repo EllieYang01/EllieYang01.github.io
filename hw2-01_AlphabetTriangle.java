@@ -27,11 +27,11 @@ public class AlphabetTriangle
 			}
 			
 			for (int print_num = 0; print_num <= i; print_num++) {
-    			if(print_num < i) {
-    				System.out.print(alphabet);
-    			}else if(print_num == i){
-    			    System.out.println("");
-    			}
+	    			if(print_num < i) {
+	    				System.out.print(alphabet);
+	    			}else if(print_num == i){
+	    			    System.out.println("");
+	    			}
 			}
 		}
 	}
